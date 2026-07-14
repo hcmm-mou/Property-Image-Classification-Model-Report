@@ -1,7 +1,7 @@
 # Property Image Classification Model Report & Research
 
 ## Project Overview 
-Completed training notebook and evaluated the classification model to automate the classification of property images for Real Estate Agency X (business case study). The agency processes approximately 50,000 new properties monthly, which required manual categorization and processing of photos into categories such as living room, bedroom, kitchen, bathroom, and exterior. This process previously consumed ~**16,650 hours** of manual labour per month for workers before the introduction of AI solutions. The primary purpose of this project is to understand ML lifecycle (development, evaluation, implementation, ect.) and research AI solutions to business problems.
+Completed training notebook and evaluated the classification model to automate the classification of property images for Real Estate Agency X (business case study). The agency processes approximately 50,000 new properties monthly, which required manual categorization and processing of photos into categories such as living room, bedroom, kitchen, bathroom, and exterior. This process previously consumed ~**16,650 hours** of manual labor per month for workers before the introduction of AI solutions. The primary purpose of this project is to understand ML lifecycle (development, evaluation, implementation, ect.) and research AI solutions to business problems.
 
 ### Business Objectives
 - Improve employee satisfaction by reducing repetitive manual tasks
