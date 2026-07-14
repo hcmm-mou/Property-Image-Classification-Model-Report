@@ -24,7 +24,7 @@ This project completed training notebook and evaluated the classification model 
 ![image alt](https://github.com/hcmm-mou/Property-Image-Classification-Model-Report/blob/2c99ec76f509252a83d9d09b5885c5a5db63f652/data%20and%20model%20training/model_prediction_test.png)
 
 ### Impact
-The model significantly reduces manual workload while maintaining acceptable accuracy, enabling partial automation under human supervision. It successfully addresses core business pain points and lays the foundation for scalable ML solutions.
+* The model significantly reduces manual workload while maintaining acceptable accuracy, enabling partial automation under human supervision. It successfully addresses core business pain points and lays the foundation for scalable ML solutions.
 
 
 
